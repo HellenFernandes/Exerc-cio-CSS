@@ -1,0 +1,25 @@
+@charset "utf-8";
+#div1 {
+    background-color: purple;
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    float: left;
+}
+#div2 {
+    background-color: slategray;
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    float: left;
+}
+#div3 {
+    background-color: orangered;
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    float: left;
+}

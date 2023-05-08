@@ -1,0 +1,18 @@
+@charset "utf-8";
+.div1 {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+.div2 {
+    display: none;
+    height: 200px;
+    width: 200px;
+    background-color: chocolate;
+    ;
+}
+span {
+    height: 200px;
+    width: 200px;
+}
